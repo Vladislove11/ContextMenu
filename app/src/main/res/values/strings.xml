@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="title_color_quality">Цветовое качество</string>
+    <string name="title_exit">Выход из приложения</string>
+    <string name="EditText_grade_lesson">Оценка за урок</string>
+    <string name="button_text">Случайное число</string>
+</resources>
